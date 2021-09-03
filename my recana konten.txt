@@ -4,6 +4,7 @@ rencana
  + ES6
  + Framework yg baru
   - Vue
+  - reach
  - Struktur Data
 - php framework
 - python
