@@ -3,5 +3,7 @@ rencana
 - javascript
  + ES6
  + Framework yg baru
+  - Vue
  - Struktur Data
 - php framework
+- python
