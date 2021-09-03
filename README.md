@@ -1,2 +1,2 @@
 # syahrur-resolusi
-Repository untuk menyimpan rencana WPU kedepanya
+Repository untuk menyimpan rencana kedepanya
