@@ -3,5 +3,6 @@ rencana
 - javascript
  + ES6
  + Framework yg baru
+  - Angular
+  - react
  - Struktur Data
-- php framework
