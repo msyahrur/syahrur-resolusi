@@ -1,0 +1,6 @@
+rencana
+
+- javascript
+ + ES6
+ + Framework yg baru
+- php framework
