@@ -3,6 +3,8 @@ rencana
 - javascript
  + ES6
  + Framework yg baru
-  - Angular
-  - react
+  - Vue
+  - reach
  - Struktur Data
+- php framework
+- python
